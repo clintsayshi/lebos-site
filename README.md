@@ -1,5 +1,7 @@
 # Lebo's site
 
+[Demo here](https://mcclintsayshi.github.io/lebos-site)
+
 It's a simple portfolio site landing page.
 I created it using just HTML, CSS & JS(mainly to toggle the navbar on small devices)
 
