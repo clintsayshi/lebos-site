@@ -55,7 +55,7 @@ nav {
 }
 
 .toggle-navbar-on {
-  display: block;
+  display: block !important;
 }
 
 .navbar-links {
@@ -73,6 +73,7 @@ nav {
     top: 10vh;
     left: 0;
     right: 0;
+    z-index: 7;
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     background-position: center;
     background-size: cover;
